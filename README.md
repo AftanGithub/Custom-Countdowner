@@ -8,5 +8,8 @@ this is a custom JavaScript application which is used to create custom countdown
 
 ![preview2](https://user-images.githubusercontent.com/75898512/102779045-999ac580-43b9-11eb-8cb3-e644b53c8761.png)
 
+#Begin Making It
+
+![preview3](https://user-images.githubusercontent.com/75898512/102779144-bd5e0b80-43b9-11eb-8a76-bdf919071ee1.png)
 
 
